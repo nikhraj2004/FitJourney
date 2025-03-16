@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 /**
  * (c) zEndurance 2018
  *
- * @author Raj <raj.nry.k@gmail.com>
+ * @author Anmol <anmolguptaran@gmail.com>
  */
 public class App extends Application {
 
