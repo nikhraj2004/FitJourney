@@ -12,7 +12,7 @@ import org.junit.rules.ExpectedException;
 import model.Food;
 
 /**
- * @author Raj
+ * @author Anmol
  * 
  * Given[ExplainYourInput]When[WhatIsDone]Then[ExpectedResult]
  *
