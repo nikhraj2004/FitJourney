@@ -12,7 +12,7 @@ import org.junit.rules.ExpectedException;
 import model.Activity;
 
 /**
- * @author Raj
+ * @author Anmol
  *
  */
 public class ActivityTest {
