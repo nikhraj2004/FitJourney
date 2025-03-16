@@ -9,7 +9,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
- * @author Raj
+ * @author Anmol
  *
  */
 public class UserTest {
